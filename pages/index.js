@@ -5,7 +5,7 @@ export default function () {
   return (
     <App>
       <Box bg='tomato' w='100%' p={4} color='white'>
-        This is the Box
+        T
       </Box>
       <Button variantColor='green'>Button</Button>
       <ButtonGroup spacing={4}>
